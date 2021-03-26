@@ -1,5 +1,3 @@
-# 2620_lab11
-
 # This is a wetaher report in Vancouver
 
 ## How to use

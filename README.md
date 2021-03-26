@@ -1,6 +1,14 @@
 # This is a wetaher report in Vancouver
 
-## How to use
+## How to run the Script
+1. Go to the directory where you clone your github repo/
+2. Run './wthr' command.
+3. You will see a table of how the script is running.
+4. You will see a text file name 'weather.txt' by running ls command.
+5. You can displaye the content of the file by running 'cat weather.txt' command.
+6. You be able to see a weather report in Vancouver.
+
+## How to use the wthr.service
 1. Clone the github repo to your Linux virtual machine.
 2. Run 'sudo systemctl start wthr.service' command.
 3. You will see a text file name 'weather.txt' by running ls command.

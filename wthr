@@ -1,0 +1,8 @@
+#!/bin/bash
+now=$(date +"%F-%H:%M")
+while true; do
+	echo $now
+	curl wttr.in/Vancouver >> weather.txt
+
+	sleep 10
+done
